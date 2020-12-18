@@ -5,7 +5,7 @@ The medical record system is a system that allows doctors to share information a
 ## How to run the app
 1. Download the app
 2. Install all dependincies.
-3. Use Netbeans IDE and install Javatuples in your libraries.
+3. Use Netbeans IDE and install Javatuples and Gson in your libraries.
 4. Run the application after all dependencies are installed.
 
 ##Features of the System
